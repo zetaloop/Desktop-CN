@@ -102,4 +102,4 @@ export const enableCustomIntegration = () => true
 export const enableResizingToolbarButtons = () => true
 export const enableGitConfigParameters = enableBetaFeatures
 
-export const enableFilteredChangesList = enableDevelopmentFeatures
+export const enableFilteredChangesList = () => true
